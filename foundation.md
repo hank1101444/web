@@ -1,4 +1,4 @@
-```html5
+```HTML
 <!DOCTYPE html>
 <html lang = "en">
 	<head>
