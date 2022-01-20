@@ -1,5 +1,7 @@
 ```html
+<!--doctype html 表示這是用html5是寫給w3c validation看的-->
 <!DOCTYPE html>
+<!--建議加lang 這樣可以增加曝光度以及google 翻譯-->
 <html lang = "en">
 	<head>
 		<meta charset = "utf-8">
