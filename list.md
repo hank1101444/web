@@ -22,8 +22,7 @@
    </body>
 </html>
 ```
-<br>
-&nbsp
+
 ## ordered list (ol)
 ## nested item
 ```html
