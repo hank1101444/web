@@ -1,4 +1,13 @@
 ## table head ,table foot 不常用
+## 格式
+```html
+<table>  
+<tr>  
+<td></td>  
+<td></td>  
+</tr>  
+</teble>
+```
 ```html
 <!DOCTYPE html>
 <html>
