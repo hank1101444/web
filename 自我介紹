@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!-- Fig. 2.10: links2.html -->
+<!-- Unordered list containing hyperlinks. -->
+<html>
+   <head>
+      <meta charset = "utf-8">
+      <title>自我介紹</title>
+   </head>
+   <body>
+		<h1>welcome to my blog</h1>
+		<table border = "1" width = 400 height = 800>
+			<caption>welcome to my blog</caption>
+			<tr>
+				<td rowspan = "4"><img src = "hank.jpg" width = "200" height = "300"></td>
+				<td>名字</td>
+				<td>徐英豈</td>	
+			</tr>
+			<tr>
+				<td>學號</td>
+				<td>1101444</td>
+			</tr>
+			<tr>
+				<td>Email</td>
+				<td><a href = "https://mail.google.com/mail/u/0/">Email:</a></td>
+			</tr>
+			<tr>
+				<td>Fb</td>
+				<td><a href = "https://www.facebook.com/">https://www.facebook.com/</a></td>
+			</tr>
+			<tr>
+				<td colspan = "3">
+					<ul>
+						<li>學歷
+							<ol>
+								<li>元智國小</li>
+									<ul>
+										<li>2013 ~ 2014</li>
+									</ul>
+								<li>元智國中</li>
+									<ul>
+										<li>2014 ~ 2015</li>
+									</ul>
+								<li>元智高中</li>
+									<ul>
+										<li>2015 ~ 2016</li>
+									</ul>
+								<li>元智大學</li>
+									<ul>
+										<li>2016 ~ 2017</li>
+									</ul>
+							</ol>
+						</li>
+						<li>經歷
+							<ol>
+								<li>2013 ~ 2014</li>
+								<li>2014 ~ 2015</li>
+								<li>2015 ~ 2016</li>
+							</ol>
+						</li>>
+					</ul>
+
+				</td>
+			</tr>
+		
+		</table>
+		
+	</body>
+</html>
