@@ -1,6 +1,7 @@
 ## list items (li)
 ## ordered list (ol)
 ## nested item
+```ntml
 <!DOCTYPE html>
 <!-- Fig. 2.10: links2.html -->
 <!-- Unordered list containing hyperlinks. -->
@@ -23,6 +24,8 @@
 	   
 	&nbsp;
 	&nbsp;
+	<!--ordered list (ol)-->
+	<!-- nested item-->
 		<ul>
 		<li>學歷
 				<ol>
@@ -60,3 +63,4 @@
 		</ul>
    </body>
 </html>
+```
