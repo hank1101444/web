@@ -1,3 +1,6 @@
+## list items (li)
+## ordered list (ol)
+## nested item
 <!DOCTYPE html>
 <!-- Fig. 2.10: links2.html -->
 <!-- Unordered list containing hyperlinks. -->
@@ -48,9 +51,9 @@
 			
 			<li>經歷
 				<ol>
-					<li>2013.09 ~ 2013.11</li>
-					<li>2014.09 ~ 2015.11</li>
-					<li>2015.09 ~ 2016.11</li>
+					<li>2013.09 ~ 2013.11
+					<li>2014.09 ~ 2015.11
+					<li>2015.09 ~ 2016.11
 				</ol>
 			
 			</li>
