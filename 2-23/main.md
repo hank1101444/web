@@ -1,3 +1,4 @@
+```js
 $(function(){
     $("input").on("click",function(){
         var x = 5;
@@ -6,3 +7,4 @@ $(function(){
         $("h1").text("hello");
     });
 });
+```
