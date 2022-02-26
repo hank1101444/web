@@ -1,3 +1,4 @@
+``` html
 <!DOCTYPE html>
 <html>
     <head>
@@ -21,3 +22,4 @@
         <script src="main.js" async defer></script>
     </body>
 </html>
+```
